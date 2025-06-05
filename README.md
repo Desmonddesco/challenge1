@@ -1,4 +1,5 @@
 Project Title: Challenge 1 Accepted
+
 Tools Used: React, Vite, DummyJSON API, Firebase Hosting, Git, GitHub
 
 🎯 Objective
